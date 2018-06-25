@@ -32,7 +32,7 @@ setup(
     platforms='any',
     install_requires=[
         'Flask',
-        'Babel>=2.3',
+        'Babel>=2.6',
         'Jinja2>=2.5'
     ],
     classifiers=[
